@@ -45,7 +45,7 @@ export default function Blog() {
   </article>
 
   <article>
-    <h2>March 2025 — KingFM Hits 1 Million Downloads</h2>
+    <h2>March 2025 — KingFM Hits 100,000 Downloads</h2>
     <p>
       KingFM, our flagship mobile synth, officially crossed the one million download mark on iOS. Thank you to everyone
       who continues to create and share music with it.

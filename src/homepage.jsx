@@ -14,7 +14,7 @@ export default function App() {
       <img src="/MyLogo(Transparent)erq editewhited.png" alt="Moccasin Logo" className="logo" />
 
       <header className="container">
-        <h1>Moccasin</h1>
+        <h1 id="logo">Moccasin</h1>
       </header>
 
 
@@ -22,7 +22,7 @@ export default function App() {
       <section className="container">
         <h2 className="section-header">Introducing: The Mother Fucker</h2>      
         <img src="/tmf.png" alt="The Mother Fucker UI" className="tmf-image" />
-        <p>A boutique ******** ***** synthesizer developer. Analog soul, digital form.</p>
+        <p>A boutique ******** ***** synthesizer. Analog soul, digital form.</p>
 
         <p>
           A powerful duophonic synthesizer designed from scratch for the ********* *****. Featuring a Microbrute-inspired
@@ -62,8 +62,15 @@ export default function App() {
       {/* <a href="/demos/chants" className="demo-link">+ watch the demo +</a> */}
     </div>
   </div>
-</section>
 
+  <div className="module">
+  <img src="/kingfm.png" alt="King of FM" className="module-image" style={{ filter: 'grayscale(100%)' }} />
+  <h3>King of FM: 100,000 Downloads</h3>
+  <p>One of the most downloaded FM synth on iOS, just surpassed 100,000 downloads. Smooth operator control, classic DX-style modulation, and multi-layered presets for sound designers and live players alike. Download it now.</p>
+  {/* <a href="/demos/kingfm" className="demo-link">+ watch the demo +</a> */}
+</div>
+
+</section>
 
       <section className="container">
         <h2 className="section-header">Contact</h2>

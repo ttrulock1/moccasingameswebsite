@@ -17,7 +17,7 @@ export default function About() {
       <section>
   <h1>About Us</h1>
   <p>
-    Moccasin Factory Instruments is a synthesizer and musical instrument company based in New Orleans, Louisiana. Founded in 2019 by Sutton Trulock—a self-taught electronic instrument designer and luthier——Moccasin began with the Garage, a fully analogtape-based synthesizer.
+    Born in the New Orleans Bayou, Moccasin is a synthesizer and musical instrument company based in New Orleans, Louisiana. Founded in 2019 by Sutton Trulock—a self-taught electronic instrument designer and luthier——Moccasin began with the Garage, a fully analogtape-based synthesizer.
     In 2021, the company made its digital debut, designing apps.
   </p>
   <p>

@@ -55,7 +55,7 @@
     width: 90%;
     max-width: 1000px;
     margin: 0 auto;
-    padding: 2rem 0;
+    /* padding: 1rem 0; */
   }
   
   section {
@@ -120,7 +120,7 @@
   /* Logo */
   .logo {
     width: 120px;
-    margin: 2rem auto;
+    margin: 1rem auto;
     display: block;
   }
   
@@ -145,3 +145,9 @@
     border: 1px solid #333;
   }
   
+  #logo {
+
+    font-size: 40px;
+    /* font-family:  */
+
+  }
