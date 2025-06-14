@@ -1,0 +1,147 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  html, body {
+    height: 100%;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: #000;
+    color: #fff;
+    line-height: 1.6;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  /* Layout */
+  .module-showcase {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: space-between;
+  }
+  
+  .module {
+    flex: 1 1 45%;
+    background-color: #111;
+    padding: 1rem;
+    border: 1px solid #444;
+    text-align: center;
+  }
+  
+  .module-image {
+    width: 100%;
+    max-width: 420px;
+    height: auto;
+    margin-bottom: 1rem;
+  }
+  
+  .demo-link {
+    display: inline-block;
+    margin-top: 0.5rem;
+    color: #fff;
+    text-decoration: underline;
+  }
+  
+
+  .container {
+    width: 90%;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 2rem 0;
+  }
+  
+  section {
+    /* padding: 1rem 0; */
+    border-bottom: 1px solid #222;
+  }
+  
+  h1, h2, h3 {
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+    letter-spacing: 1px;
+  }
+  
+  h2 {
+    font-size: 1.75rem;
+    color: #fff;
+  }
+  
+  p, li {
+    font-size: 1rem;
+    max-width: 700px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  ul {
+    list-style: disc;
+    padding-left: 1.5rem;
+    color: #fff;
+  }
+  
+  footer {
+    padding: 2rem 0;
+    text-align: center;
+    font-size: 0.9rem;
+    color: #666;
+  }
+  
+  nav {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    padding: 1.5rem 0;
+    border-bottom: 1px solid #333;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    transition: color 0.3s ease;
+  }
+  
+  nav a:hover {
+    color: #aaa;
+  }
+  
+  /* Logo */
+  .logo {
+    width: 120px;
+    margin: 2rem auto;
+    display: block;
+  }
+  
+  /* Indie Dev Style */
+  .section-header {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #fff;
+    border-bottom: 1px solid #555;
+    padding-bottom: 0.5rem;
+    margin-bottom: 2rem;
+  }
+  
+
+  .tmf-image {
+    display: block;
+    margin: 2rem auto;
+    max-width: 90%;
+    filter: grayscale(100%);
+    border: 1px solid #333;
+  }
+  
