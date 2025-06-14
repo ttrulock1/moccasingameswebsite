@@ -14,7 +14,7 @@ export default function App() {
       <img src="/MyLogo(Transparent)erq editewhited.png" alt="Moccasin Logo" className="logo" />
 
       <header className="container">
-        <h1>Moccasin Factory Instruments</h1>
+        <h1>Moccasin</h1>
       </header>
 
 
