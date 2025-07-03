@@ -17,7 +17,7 @@ export default function Blog() {
         <article>
     <h2>June 2025 — MF Synth Approved for Nintendo Switch</h2>
     <p>
-      After months of development, Moccasin Factory Instruments has officially been approved as a Nintendo Switch developer.
+      After months of development, Moccasin Factory Instruments has officially been approved as a ****** ***** developer.
       The upcoming MF Synth app will bring powerful sound design tools to a new generation of handheld creators.
     </p>
   </article>

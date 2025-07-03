@@ -5,7 +5,7 @@ export default function App() {
   return (
     <div>
       <nav>
-        <a href="/#">MF Synth</a>
+        <a href="/#">Home</a>
         <a href="/jobs">Jobs</a>
         <a href="/news">News</a>
         <a href="/about">About</a>
@@ -20,7 +20,7 @@ export default function App() {
 
 
       <section className="container">
-        <h2 className="section-header">Introducing: The Mother Fucker</h2>      
+        <h2 className="section-header">Introducing: The MFS1</h2>      
         <img src="/tmf.png" alt="The Mother Fucker UI" className="tmf-image" />
         <p>A boutique ******** ***** synthesizer. Analog soul, digital form.</p>
 
