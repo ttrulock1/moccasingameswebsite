@@ -15,10 +15,9 @@ export default function Blog() {
       <section>
         <h1>News</h1>
         <article>
-    <h2>June 2025 — MF Synth Approved for Nintendo Switch</h2>
+    <h2>June 2025 — Introducing The Swamp </h2>
     <p>
-      After months of development, Moccasin Factory Instruments has officially been approved as a ****** ***** developer.
-      The upcoming MF Synth app will bring powerful sound design tools to a new generation of handheld creators.
+      After months of development, Moccasin Factory Instruments has officially launched it's first Eurorack Module, swamp. The Swamp will bring dynamic digital reverb to any euorack setup at cost of only $135. We will be shipping the modules to distributors in August.
     </p>
   </article>
 
